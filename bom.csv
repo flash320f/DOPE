@@ -1,0 +1,10 @@
+Item,Quantity,Description,Source
+Seeed XIAO RP2040,1,Microcontroller (USB-C),Seeed Studio
+Push Buttons (6mm),4,Tactile push buttons,Any Electronics Store
+Rotary Encoder (EC11),1,Rotary encoder with push button,Any Electronics Store
+SK6812 MINI RGB LEDs,2,Individually addressable RGB LEDs,Adafruit / Mouser
+Resistors (10kΩ),5,Pull-up resistors (Optional if using internal pull-ups),Any Electronics Store
+Capacitors (100nF),2,Decoupling capacitors for LEDs,Any Electronics Store
+PCB,1,Custom fabricated PCB,JLC PCB / PCBWay
+USB Cable,1,USB Type-A to Type-C Data Cable,Any Electronics Store
+Soldering Materials,-,"Solder, flux, and soldering iron",Any Electronics Store
